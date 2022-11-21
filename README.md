@@ -1,5 +1,5 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-
+1
 ## 🚀 About Me
 
 🎓 I am Tapajyoti Bose, a **Front End Web Developer** (specializing in **React Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Upwork_. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2022.
