@@ -70,7 +70,9 @@
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![test1](https://raw.githubusercontent.com/mnsd11/public/main/DockerProjects/Linux/DockerLinuxVPSAutoMuteForAmongUs.jpg?token=GHSAT0AAAAAAB3T7TSFNQ4NS1U41AJ1XAL1Y4R1PYA)
-![test2](https://raw.githubusercontent.com/mnsd11/public/main/DockerProjects/Linux/DockerLinuxVPSAutoMuteForAmongUs.jpg]
+
+![test2](https://github.com/mnsd11/public/blob/main/DockerProjects/Win/DockerWinAutoMuteForAmongUs.png)
+
 ![test3](https://github.com/mnsd11/public/blob/main/DockerProjects/Linux/DockerLinuxVPSAutoMuteForAmongUs.jpg)
 
 
